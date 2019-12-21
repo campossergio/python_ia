@@ -4,7 +4,7 @@ x = 0
 
 while x <= 10:
     print(x)
-    x = x + 1
+    x += 1
 
 print('acabou o laço!')
 
@@ -21,3 +21,15 @@ while decisao != 3:
         print('saindo....')
 
 print('Obrigado, Volte Sempre!!!!1')
+
+#LAÇOS DE REPETIÇÃO : WHILE PARTE 2
+x = -1
+
+while x < 11:
+    x += 1
+    if x == 5:
+        continue
+
+    print(x)
+
+print('acabou a laço!!!');
