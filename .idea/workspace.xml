@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47b7a9b3-7e08-431d-ac7b-c690e3a25aa0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/lacosDeRepeticaoFor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/estruturasDeDadosListas.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/lacosDeRepeticaoWhile.py" afterPath="$PROJECT_DIR$/lacosDeRepeticaoWhile.py" />
+      <change beforePath="$PROJECT_DIR$/lacosDeRepeticaoFor.py" afterPath="$PROJECT_DIR$/lacosDeRepeticaoFor.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,41 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="desafioCondicionais.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/desafioCondicionais.py">
+      <file leaf-file-name="estruturasDeDadosListas.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estruturasDeDadosListas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="in_esta_contido.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/in_esta_contido.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lacosDeRepeticaoWhile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lacosDeRepeticaoWhile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lacosDeRepeticaoFor.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lacosDeRepeticaoFor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="218">
+              <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -80,14 +50,18 @@
         <option value="$PROJECT_DIR$/in_esta_contido.py" />
         <option value="$PROJECT_DIR$/lacosDeRepeticaoWhile.py" />
         <option value="$PROJECT_DIR$/lacosDeRepeticaoFor.py" />
+        <option value="$PROJECT_DIR$/estruturasDeDadosListas.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="592" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="488" />
     <option name="y" value="1" />
-    <option name="width" value="775" />
+    <option name="width" value="879" />
     <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -104,7 +78,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,6 +90,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lacosDeRepeticaoFor">
+  <component name="RunManager" selected="Python.estruturasDeDadosListas">
     <configuration name="desafioCondicionais" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +128,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="estruturasCondicionais" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="estruturasDeDadosListas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -166,7 +140,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturasCondicionais.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturasDeDadosListas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,19 +220,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.helloWorld" />
-      <item index="1" class="java.lang.String" itemvalue="Python.estruturasCondicionais" />
-      <item index="2" class="java.lang.String" itemvalue="Python.desafioCondicionais" />
-      <item index="3" class="java.lang.String" itemvalue="Python.in_esta_contido" />
-      <item index="4" class="java.lang.String" itemvalue="Python.lacosDeRepeticaoWhile" />
-      <item index="5" class="java.lang.String" itemvalue="Python.lacosDeRepeticaoFor" />
+      <item index="1" class="java.lang.String" itemvalue="Python.desafioCondicionais" />
+      <item index="2" class="java.lang.String" itemvalue="Python.in_esta_contido" />
+      <item index="3" class="java.lang.String" itemvalue="Python.lacosDeRepeticaoWhile" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lacosDeRepeticaoFor" />
+      <item index="5" class="java.lang.String" itemvalue="Python.estruturasDeDadosListas" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.lacosDeRepeticaoFor" />
-        <item index="1" class="java.lang.String" itemvalue="Python.desafioCondicionais" />
-        <item index="2" class="java.lang.String" itemvalue="Python.in_esta_contido" />
-        <item index="3" class="java.lang.String" itemvalue="Python.lacosDeRepeticaoWhile" />
-        <item index="4" class="java.lang.String" itemvalue="Python.estruturasCondicionais" />
+        <item index="0" class="java.lang.String" itemvalue="Python.estruturasDeDadosListas" />
+        <item index="1" class="java.lang.String" itemvalue="Python.lacosDeRepeticaoFor" />
+        <item index="2" class="java.lang.String" itemvalue="Python.desafioCondicionais" />
+        <item index="3" class="java.lang.String" itemvalue="Python.in_esta_contido" />
+        <item index="4" class="java.lang.String" itemvalue="Python.lacosDeRepeticaoWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -279,12 +253,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="592" y="1" width="775" height="735" extended-state="0" />
+    <frame x="488" y="1" width="879" height="735" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2911726" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25608343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.884808" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3806344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -309,6 +284,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/desafioCondicionais.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in_esta_contido.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lacosDeRepeticaoWhile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lacosDeRepeticaoFor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/desafioCondicionais.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -488,23 +495,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lacosDeRepeticaoWhile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
+        <state relative-caret-position="714">
           <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafioCondicionais.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/in_esta_contido.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
+        <state relative-caret-position="362">
           <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding />
         </state>
@@ -512,8 +511,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lacosDeRepeticaoFor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="57">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafioCondicionais.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estruturasDeDadosListas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
           <folding />
         </state>
       </provider>

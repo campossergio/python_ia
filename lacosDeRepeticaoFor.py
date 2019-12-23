@@ -6,7 +6,7 @@ except:
 else:
     print(f'sua idade é {x}')
 finally:
-    print('muito obrigad opor acessar nosso site')
+    print('muito obrigado por acessar nosso site')
 
 # LAÇOS DE REPETIÇÃO: FOR
 x = ['Sergio', 'Campos']
